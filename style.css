@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 200vh;
+    background-image: url(./phonk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    filter: blur(10px);
+}
+
+
+.aas{
+    color: white;
+    font-size: 70px;
+}
+
+.swa{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.za{
+    text-align: center;
+}
+
+.table{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.table td h1{
+    text-align: end;
+}
+
+.poor{
+    text-align: center;
+}
+
+
+.qaq{
+    text-align: center;
+}
